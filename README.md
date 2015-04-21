@@ -12,8 +12,8 @@ For a usage example, see my [dotfiles].
 
 ## Installation and Usage
 
-Install `default` to `~/.config/Xresources` and
-`./Xresources.d` to `~/.config/Xresources/Xresources.d`
+Install `default` to `~/.config/Xresources/default` and
+`Xresources.d` to `~/.config/Xresources/Xresources.d`
 
 Load the resources with
 
