@@ -1,6 +1,6 @@
 # X Resources
 
-[![The Unlicense](https://img.shields.io/badge/license-The_Unlicense-red.svg)](./LICENSE.txt)
+[![The Unlicense](https://img.shields.io/github/license/rxrc/xresources.svg)](./LICENSE.txt)
 
 ## Description
 
