@@ -11,7 +11,7 @@
     "Xresources"
   ],
   "license": "Public Domain",
-  "homepage": "https://github.com/razor-x/xresources",
+  "homepage": "https://github.com/rxrc/xresources",
   "private": true,
   "ignore": [
     "**/.*"

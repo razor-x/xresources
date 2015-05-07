@@ -8,7 +8,7 @@ These are my X resources.
 
 For a usage example, see my [dotfiles].
 
-[dotfiles]: https://github.com/razor-x/dotfiles
+[dotfiles]: https://github.com/rxrc/dotfiles
 
 ## Installation and Usage
 
