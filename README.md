@@ -1,5 +1,6 @@
 # X Resources
 
+[![Release](https://img.shields.io/github/release/rxrc/xresources.svg)](https://github.com/rxrc/xresources/releases)
 [![The Unlicense](https://img.shields.io/github/license/rxrc/xresources.svg)](./LICENSE.txt)
 
 ## Description
