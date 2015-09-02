@@ -1,5 +1,7 @@
 #include "fonts"
 #include "xscreensaver"
+#include "xscreensaver.interface"
+#include "xscreensaver.programs"
 #include "urxvt"
 #include "urxvt.interface"
 #include "urxvt.solarized"
