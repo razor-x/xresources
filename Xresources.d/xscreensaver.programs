@@ -140,7 +140,6 @@ xscreensaver.programs: \
 - GL: flipflop -root \n\
 - GL: flyingtoasters -root \n\
 - fontglide -root \n\
-  GL: gleidescope -root \n\
 - GL: glknots -root \n\
   GL: glmatrix -root \n\
 - GL: glslideshow -root \n\
