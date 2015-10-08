@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Set xscreensaver power options.
+
 ## 1.1.0
 
 - Add xscreensaver settings.

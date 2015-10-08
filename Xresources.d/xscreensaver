@@ -1,1 +1,10 @@
+xscreensaver.timeout: 0:20:00
+xscreensaver.cycle: 0:05:00
 xscreensaver.lock: true
+xscreensaver.lockTimeout: 0:00:00
+
+xscreensaver.dpmsEnabled: True
+xscreensaver.dpmsQuickOff: False
+xscreensaver.dpmsStandby: 0:10:00
+xscreensaver.dpmsSuspend: 1:00:00
+xscreensaver.dpmsOff: 4:00:00
