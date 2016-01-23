@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Update `bower.json` metadata.
+
 ## 1.2.0
 
 - Set xscreensaver power options.
