@@ -22,6 +22,17 @@ Load the resources with
 $ xrdb -I$HOME/.config/Xresources/Xresources.d $HOME/.config/Xresources/default
 ```
 
+## Source Code
+
+The [xresources source] is hosted on GitHub.
+Clone the project with
+
+```
+$ git clone https://github.com/rxrc/xresources.git
+```
+
+[xresources source]: https://github.com/rxrc/xresources
+
 ## License
 
 This is free and unencumbered software released into the public domain.
