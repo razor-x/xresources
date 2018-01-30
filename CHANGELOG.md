@@ -5,7 +5,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
-## [Unreleased][Unreleased]
+## [1.2.1] / 2018-01-30
+
+### Added
+
+- New `hidpi.alt` for alternate DPI setting
 
 ### Changed
 
@@ -28,6 +32,7 @@ This change log follows the conventions of
 
 - Initial release.
 
-[Unreleased]: https://github.com/rxrc/xresources/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/rxrc/xresources/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/rxrc/xresources/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/rxrc/xresources/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/rxrc/xresources/compare/v1.0.0...v1.1.0
