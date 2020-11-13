@@ -1,6 +1,6 @@
 {
   "name": "@rxrc/xresources",
-  "version": "0.0.0",
+  "version": "2.0.0",
   "description": "X resources.",
   "homepage": "https://github.com/rxrc/xresources",
   "bugs": "https://github.com/rxrc/xresources/issues",
