@@ -1,0 +1,21 @@
+{
+  "name": "@rxrc/xresources",
+  "version": "0.0.0",
+  "description": "X resources.",
+  "homepage": "https://github.com/rxrc/xresources",
+  "bugs": "https://github.com/rxrc/xresources/issues",
+  "repository": "rxrc/xresources",
+  "license": "Unlicense",
+  "author": {
+    "name": "Evan Sosenko",
+    "email": "razorx@evansosenko.com"
+  },
+  "files": [
+    "default",
+    "Xresources.d"
+  ],
+  "scripts": {
+    "test": "true",
+    "postversion": "git push && git push --tags"
+  }
+}
